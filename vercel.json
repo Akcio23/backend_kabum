@@ -1,8 +1,5 @@
 {
     "version":2,
-    "engines": {
-    "node": "20.x"
-  },
     "builds":[
         {
             "src": "./index.js",
