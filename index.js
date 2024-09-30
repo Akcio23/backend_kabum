@@ -4,7 +4,7 @@ import cors from 'cors'; // Importando o middleware CORS
 import dotenv from 'dotenv';
 
 dotenv.config();
-const dbUrl = process.env.DATABASE_URL || 3001;
+const dbUrl = process.env.DATABASE_URL;
 
 
 
